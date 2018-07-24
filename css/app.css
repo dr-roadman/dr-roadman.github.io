@@ -1,0 +1,13 @@
+
+body{
+    background:url(../images/bkg.png) no-repeat 50% 0; 
+    background-attachment:fixed; 
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
+
+/* .logoimg
+{
+    margin-left:300px;
+} */
