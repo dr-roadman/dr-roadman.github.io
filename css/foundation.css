@@ -3336,7 +3336,9 @@ select {
     margin-bottom: 0; }
   .callout.primary {
     background-color: #d7ecfa;
-    color: #0a0a0a; }
+    color: #0a0a0a;
+    text-align: center; 
+  }
   .callout.secondary {
     background-color: #eaeaea;
     color: #0a0a0a; }
